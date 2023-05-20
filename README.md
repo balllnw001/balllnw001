@@ -24,4 +24,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://www.github.com/balllnw001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=balllnw001&layout=compact" />
+<img src="https://github—readme—stats.vercel.app/api?usernane=balllnw001&show_icons=true&thee=radicat" />
+<img src="https://github—readme—stats.vercet.app/api/top—tangs/?username=balllnw001&tayout=conpact"
