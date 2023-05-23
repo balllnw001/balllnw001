@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/balllnw001" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1lfELtqRs6cUnm-6FLvb5gULAnYD0hLaJ/view?usp=share_link" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/balllnw001" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1oHhJJoelMs5wFVL7HCHqeSxGp8XfzoNn/view?usp=share_link" width="32" height="32" /></a></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=balllnw001&theme=dark&show_icons=true" />
 
